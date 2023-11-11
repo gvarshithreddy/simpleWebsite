@@ -1,0 +1,45 @@
+h1 {
+  color: rgb(69, 71, 75);
+  text-shadow: 1px 1px 0px #000, -1px -1px 0px #000, 1px -1px 0px #000, -1px 1px 0px #000;
+}
+
+body{
+    background-color: rgb(245, 247, 248);
+    font-family: cursive;
+    color:rgb(69, 71, 75);
+    
+}
+
+p{
+    font-size: large;
+}
+
+a{
+    color: rgb(244, 206, 20);
+   
+}
+nav {
+    background-color: rgb(69, 71, 75);
+    overflow: hidden;
+    border-radius: 2px;
+}
+
+
+#nav-item {
+    float: left;
+    display: block;
+    color: rgb(244, 206, 20);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+#nav-item:hover {
+    background-color: rgb(244, 206, 20);
+    color: rgb(69, 71, 75);
+    border-radius: 2px;
+}
+
+.text-center{
+    text-align: center;
+}
